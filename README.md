@@ -107,6 +107,10 @@ AES continues to play a critical role in secure multimedia communication and dat
 - Statistical image analysis techniques
 - Multimedia security research literature
 
+
+## References
+The research references multiple academic publications including IEEE, PLOS ONE, Scientific Reports, and other peer-reviewed studies on AES-based image encryption and hybrid cryptographic techniques.
+
 ## Author
 Durga Sai Sri Ramireddy </br>
 Master’s Student - Cybersecurity </br>
@@ -114,5 +118,4 @@ University of Houston
 
 Role: **Team Lead & Primary Research Contributor**
 
-## References
-The research references multiple academic publications including IEEE, PLOS ONE, Scientific Reports, and other peer-reviewed studies on AES-based image encryption and hybrid cryptographic techniques.
+*This project was developed as part of academic coursework and expanded for cybersecurity portfolio demonstration.*
